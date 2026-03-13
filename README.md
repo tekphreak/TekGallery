@@ -2,6 +2,16 @@
 
 A clean, fast Android gallery app for browsing photos and videos stored on your device.
 
+## Screenshots
+
+| Gallery Grid | Photo Viewer | Video Player |
+|:---:|:---:|:---:|
+| ![Gallery grid view](screenshots/tg_new_1.png) | ![Photo viewer](screenshots/tg_new_3.png) | ![Video player](screenshots/tg_new_2.png) |
+
+| List View | Settings |
+|:---:|:---:|
+| ![List view](screenshots/tg_new_5.png) | ![Settings](screenshots/tg_new_4.png) |
+
 ## Features
 
 - Grid-based gallery view with smooth image loading
